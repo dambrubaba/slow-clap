@@ -1,8 +1,10 @@
-export default {
+const authConfig = {
   providers:[
     {
-      domain:'https://equal-moth-69.clerk.accounts.dev',
+      domain:'https://complete-meerkat-89.clerk.accounts.dev',
       applicationID:"convex", 
     }
   ]
-}
+};
+
+export default authConfig;
